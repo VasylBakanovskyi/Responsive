@@ -1,0 +1,16 @@
+$font-subtitle: 'Lato', sans-serif;
+$font-text: "Open Sans", sans-serif;
+$font-title: 'Gotham';
+$title-color:#394b50;
+$text-color: #7b7b7b;
+$main-color: #ffbb42;
+$bg-color: #709dca;
+$img: '../img/';
+%link {
+    text-decoration: none;
+    text-transform: uppercase;
+}
+%inline-block {
+    display: inline-block;
+    vertical-align: top;
+}
