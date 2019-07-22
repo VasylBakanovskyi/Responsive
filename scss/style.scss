@@ -843,7 +843,7 @@ body {
         padding: 40px 0 80px;
     }
 }
-@media(max-width: 490px) {
+@media(max-width: 520px) {
     .wrap {
         padding-left: 10px;
         padding-right: 10px;
@@ -897,6 +897,9 @@ body {
         &-logo {
             display: none;
         }
+    }
+    .menu-mobile {
+        top: 80px;
     }
     .request {
         &--info {
